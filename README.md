@@ -2,19 +2,21 @@
 [![GitHub stars](https://img.shields.io/github/stars/rishuranjanofficial/Delsubdir?logoColor=blue&style=social)](https://github.com/rishuranjanofficial/Delsubdir/stargazers)   [![GitHub forks](https://img.shields.io/github/forks/rishuranjanofficial/Delsubdir?logoColor=blue&style=social)](https://github.com/rishuranjanofficial/Delsubdir/network)
 
 ## Introduction
-Delsubdir is DIY and handy tool for the people who want customized directory or folder by deleting sub directory or file based on name condition or extension.
+Delsubdir is DIY and handy tool to customize the Directories/Folders.
 
 
 ## Features
-- Delete Directory based on name or condition
-- Delecte Directory if it is blank
-- Delete file on extension or condition
+Customize the Directories/Folders by deleting the Sub Directories/Folders or even files based on the following condition
+- Name 
+- Pattern 
+- Extension
+- If the Directory/Folder is blank
 
 ## Download Link 
-**[Delsubdir.py](https://rishuranjanofficial.github.io/JWTweak/JWTweak.py)**
+**[Delsubdir.py](https://github.com/rishuranjanofficial/Delsubdir/archive/main.zip)**
 
 ## POC
-
+![Delsubdir](https://user-images.githubusercontent.com/51092706/109429271-e5549580-7a20-11eb-991d-5b0bfcf9292c.png)
 
 ## Issues and Suggestions
 [![GitHub issues](https://img.shields.io/github/issues/rishuranjanofficial/Delsubdir?label=Contribution&style=social)](https://github.com/rishuranjanofficial/Delsubdir/issues)
